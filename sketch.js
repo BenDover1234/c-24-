@@ -29,8 +29,8 @@ function draw(){
     plane.display();
     hammer.display();
     rubber.display();
-    Stone.display();
-    Iron.display();
+    stone.display();
+    iron.display();
 
     
  
